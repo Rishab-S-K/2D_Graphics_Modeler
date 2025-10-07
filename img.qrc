@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>text.png</file>
+        <file>polygon.png</file>
+        <file>rectangle.png</file>
+        <file>square.png</file>
+        <file>ellipse.png</file>
+        <file>circle.png</file>
+        <file>polyline.png</file>
+        <file>line.png</file>
+        <file>logo.png</file>
+    </qresource>
+    <qresource prefix="/txt">
+        <file>shapes.txt</file>
+        <file>test.txt</file>
+        <file>testimonials.txt</file>
+    </qresource>
+</RCC>
